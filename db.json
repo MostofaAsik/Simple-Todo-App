@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "Learn Next Js",
+      "completed": false,
+      "id": "1"
+    },
+    {
+      "title": "Learn Node Js",
+      "completed": false,
+      "id": "2"
+    },
+    {
+      "title": "learn JS",
+      "completed": false,
+      "id": "k1O_Pc2"
+    },
+    {
+      "title": "learn JS",
+      "completed": false,
+      "id": "L_VsrML"
+    },
+    {
+      "title": "learn Mongodb",
+      "completed": false,
+      "id": "Wt0iwvp"
+    },
+    {
+      "title": "Learn  Express",
+      "completed": true,
+      "id": "VOCww-j"
+    }
+  ]
+}
